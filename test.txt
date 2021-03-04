@@ -29,4 +29,7 @@ git
 	git diff
 9.查看提交的版本
 	git log
-	
+10.回退版本
+	git reset --hard HEAD^
+11.git checkout -- 文件名
+12.
