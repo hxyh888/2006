@@ -1,0 +1,24 @@
+jenkins的搭建
+1.安装java环境
+	jdk
+	jre
+2.配置环境变量
+	java_home jdk绝对路径
+	path bin文件夹的绝对路径
+	calsspath 全路径
+3.查看java坏境是否安装成功
+	java
+	javac
+4.安装tomcat服务器
+5.把jenkins.war放在tomcat的webapps的目录底下
+6.启动tomcat服务器，打开浏览器输入localhost:8080/jenkins
+git
+1.git的安装  傻瓜式安装
+2.配置git的username   e-mail
+3.创建本地仓库
+	git init
+4.添加文件
+	git add 文件名
+	git add .
+5.提交文件
+	git commit -m"描述文件"
