@@ -22,3 +22,4 @@ git
 	git add .
 5.提交文件
 	git commit -m"描述文件"
+6.修改文件
