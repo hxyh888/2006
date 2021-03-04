@@ -23,3 +23,10 @@ git
 5.提交文件
 	git commit -m"描述文件"
 6.修改文件
+7.查看分支的状态
+	git status
+8.查看不同
+	git diff
+9.查看提交的版本
+	git log
+	
